@@ -1,0 +1,3 @@
+This is a project for the Exploratory Data Analysis course in coursera, read the README.md file for all the explanation needed. 
+
+Becuase the file was too large, gitgub did not let me post it here, but in the README file are the instructions to download, load and subset the data, and the explanations of the variables and plots.
